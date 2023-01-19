@@ -1,0 +1,28 @@
+{
+    "template":[
+        
+        {
+            "type":"navbar",
+            "data":"profile-name"
+        },
+
+        {
+            "type":"profile-grid",
+            "data":"logo, post-number, followers, following, bio"
+        },
+
+        {
+            "type":"story-highlight",
+            "data": ["story highlight"]
+        },
+
+        {
+            "type":"post-grid",
+            "data":[
+                "post":[],
+                "reels":[],
+                "tagged":[]
+            ]
+    ]
+
+}
